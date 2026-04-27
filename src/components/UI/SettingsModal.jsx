@@ -35,6 +35,17 @@ export default function SettingsModal({ onResume, onRestart, onHome, isGameOver,
             Quit to Home
           </button>
         </div>
+
+        <div style={{ marginTop: '20px', paddingTop: '15px', borderTop: '1px solid rgba(255,255,255,0.3)' }}>
+          <a 
+            href="https://x.com/rxjax007" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            style={{ color: '#3b82f6', textDecoration: 'none', fontSize: '0.8rem', fontWeight: 600 }}
+          >
+            Follow @rxjax007
+          </a>
+        </div>
       </div>
     </div>
   );

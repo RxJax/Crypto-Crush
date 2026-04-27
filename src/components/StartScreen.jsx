@@ -40,12 +40,12 @@ export default function StartScreen({ onStart }) {
 
         <div style={{ marginTop: '30px', borderTop: '1px solid rgba(255,255,255,0.3)', paddingTop: '20px' }}>
           <a 
-            href="https://cryptocrush.app" 
+            href="https://x.com/rxjax007" 
             target="_blank" 
             rel="noopener noreferrer"
-            style={{ color: '#3b82f6', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 600 }}
+            style={{ color: '#3b82f6', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 600, display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px' }}
           >
-            Visit cryptocrush.app
+            Follow @rxjax007
           </a>
         </div>
       </div>
